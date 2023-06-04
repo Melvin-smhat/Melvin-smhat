@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **VUE.js, Wordpress, UI/UX**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIP and BOOTSTRAP**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT and BOOTSTRAP**
 
 - 📫 How to reach me **ifeoluwaenoch9@gmail.com**
 
