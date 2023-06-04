@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/d_great_mel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d_great_mel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/enoch ifeoluwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enoch ifeoluwa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/enoch-ifeoluwa-4454b7225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enoch ifeoluwa" height="30" width="40" /></a>
 <a href="https://instagram.com/melvin-smhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melvin-smhat" height="30" width="40" /></a>
 </p>
 
