@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/d_great_mel" target="blank"><img src="https://img.shields.io/twitter/follow/d_great_mel?logo=twitter&style=for-the-badge" alt="d_great_mel" /></a> </p>
 
-- 🌱 I’m currently learning **VUE.js, Wordpress, UI/UX**
+- 🌱 I’m currently learning **VUE.js, Wordpress, UI/UX and Golang**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT and BOOTSTRAP**
 
