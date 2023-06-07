@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1000"  src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<img align="center" alt="coding" width="1000"  src="https://digitaledgetech.in/images/Banner_02_new.gif">
 <br>
 <h1 align="center">Hi 👋, I'm Enoch God's Love</h1>
 <h3 align="center">I'm a passionate frontend developer with a knack for crafting captivating user interfaces and a commitment to delivering seamless web experiences.</h3>
