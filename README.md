@@ -4,6 +4,7 @@
 <h3 align="center">I'm a passionate frontend developer with a knack for crafting captivating user interfaces and a commitment to delivering seamless web experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melvin-smhat&label=Profile%20views&color=0e75b6&style=flat" alt="melvin-smhat" /> </p>
+ <img src="https://badges.pufler.dev/repos/Melvin-smhat"/>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Melvin-smhat)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enoch-ifeoluwa-4454b7225/)
