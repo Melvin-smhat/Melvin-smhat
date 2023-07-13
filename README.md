@@ -2,8 +2,8 @@
 <br>
 <h1 align="center">Hi 👋, I'm Enoch God's Love</h1>
 <h3 align="center">I'm a passionate frontend developer with a knack for crafting captivating user interfaces and a commitment to delivering seamless web experiences.</h3>
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jobic10)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jobic10/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Melvin-smhat)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/Enoch Ifeoluwa/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jobic10/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jobic10)](https://twitter.com/jobic10)
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@jobowonubi/)](https://medium.com/@jobowonubi)
