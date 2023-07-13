@@ -3,14 +3,6 @@
 <h1 align="center">Hi 👋, I'm Enoch God's Love</h1>
 <h3 align="center">I'm a passionate frontend developer with a knack for crafting captivating user interfaces and a commitment to delivering seamless web experiences.</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melvin-smhat&label=Profile%20views&color=0e75b6&style=flat" alt="melvin-smhat" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/d_great_mel" target="blank"><img src="https://img.shields.io/twitter/follow/d_great_mel?logo=twitter&style=for-the-badge" alt="d_great_mel" /></a> </p>
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Melvin-smhat)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enoch-ifeoluwa-4454b7225/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/Melvin_smhat/)
@@ -19,6 +11,15 @@
 <a href="https://wa.me/2348117217515?text=Hi Enoch">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=flat-square&logo=whatsapp&logoColor=white" />
 </a>
+
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melvin-smhat&label=Profile%20views&color=0e75b6&style=flat" alt="melvin-smhat" /> </p>
+
+
+
+<p align="left"> <a href="https://twitter.com/d_great_mel" target="blank"><img src="https://img.shields.io/twitter/follow/d_great_mel?logo=twitter&style=for-the-badge" alt="d_great_mel" /></a> </p>
 
 - 🌱 I’m currently learning **VUE.js, Wordpress, UI/UX and Golang**
 
