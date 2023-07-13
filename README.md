@@ -3,8 +3,11 @@
 <h1 align="center">Hi 👋, I'm Enoch God's Love</h1>
 <h3 align="center">I'm a passionate frontend developer with a knack for crafting captivating user interfaces and a commitment to delivering seamless web experiences.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melvin-smhat&label=Profile%20views&color=0e75b6&style=flat" alt="melvin-smhat" /> </p>
- <img src="https://badges.pufler.dev/repos/Melvin-smhat" align="right"/>
+<p align="left">
+ <img src="https://komarev.com/ghpvc/?username=melvin-smhat&label=Profile%20views&color=0e75b6&style=flat" alt="melvin-smhat" /> 
+  <img src="https://badges.pufler.dev/repos/Melvin-smhat"/>
+</p>
+
 
  
 
