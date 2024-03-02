@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="1000" height="400"  src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<img align="center" alt="coding" width="1000" height="800"  src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 <br>
 <h1 align="center">Hi 👋, I'm Enoch God's Love</h1>
 <h3 align="center">I'm a passionate frontend developer with a knack for crafting captivating user interfaces and a commitment to delivering seamless web experiences.</h3>
